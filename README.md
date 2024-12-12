@@ -1,8 +1,8 @@
 # EE-224-Adders
 
-**Athav Vantan 23B1306  
+Athav Vantan 23B1306  
 Santhosh Kumar 23B1221  
-Tamilaruvi 23B1286  **
+Tamilaruvi 23B1286  
 
 ![image](https://github.com/user-attachments/assets/7ed94396-f74a-42a6-bfdb-04ff19437842)
 
